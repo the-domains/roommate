@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RoomMate]]></title>
         <description><![CDATA[RoomMate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roommate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:45:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 20:45:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roommate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How does it work?  </p>]]></description>
+            <link>https://thegrid.ai/roommate/how-does-it-work/index.html</link>
+            <guid isPermaLink="false">36840b1c-5a67-4da3-a2ed-fdccf2fa6fc3</guid>
+            <pubDate>Tue, 08 Mar 2016 20:45:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Let’s keep it simple </p>]]></description>
-            <link>undefinedlets-keep-it-simple/index.html</link>
+            <link>https://thegrid.ai/roommate/lets-keep-it-simple/index.html</link>
             <guid isPermaLink="false">9184b7ce-43fe-404b-96e3-770576bba2b0</guid>
             <pubDate>Tue, 08 Mar 2016 20:45:24 GMT</pubDate>
         </item>
