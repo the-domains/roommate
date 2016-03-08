@@ -2,6 +2,7 @@ name: RoomMate
 favicon: null
 layout_spectrum: 0.5100214183330536
 typography_spectrum: 0.5268353936262429
+title: RoomMate
 cta:
   domain: null
   bucket: null
