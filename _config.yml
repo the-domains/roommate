@@ -1,0 +1,28 @@
+name: RoomMate
+favicon: null
+layout_spectrum: 0.5100214183330536
+typography_spectrum: 0.5268353936262429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8145357244648039
+  lightness: 0.042959611397236586
+  saturation: 0.11626011389307678
+  rhythmicContrast: 0.37092300853691995
+purpose: []
